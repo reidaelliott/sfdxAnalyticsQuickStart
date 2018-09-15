@@ -1,0 +1,13 @@
+{
+    "orgName": "Analytics App Scratch Org",
+    "country": "US",
+    "adminEmail": "reid.elliott@salesforce.com",
+    "edition": "Developer",
+    "features" : "DevelopmentWave",
+    "orgPreferences": {
+      "enabled": [
+        "S1DesktopEnabled"
+      ],
+      "disabled": []
+    }
+  }
