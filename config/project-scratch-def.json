@@ -1,7 +1,7 @@
 {
     "orgName": "Analytics App Scratch Org",
     "country": "US",
-    "adminEmail": "reid.elliott@salesforce.com",
+    "adminEmail": "%email_address%",
     "edition": "Developer",
     "features" : "DevelopmentWave",
     "orgPreferences": {
