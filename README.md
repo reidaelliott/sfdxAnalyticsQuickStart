@@ -15,6 +15,7 @@ At this point you have a scratch org with an Analytics template installed.  Expl
 
 To view the Analytics template:
 'sfdx analytics:template:list'
+
 To create an Analytics application from the template
 'sfdx analytics:app:create -t <templateid>
 
