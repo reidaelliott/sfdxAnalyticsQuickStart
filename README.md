@@ -9,7 +9,7 @@ After cloning this repo and navigating to the sfdxAnalyticsQuickStart directory 
 1.  Update the adminEmail in config/project-scratch-def.json to your email address
 2.  Authenticate to your dev hub.  For web auth 'sfdx force:auth:web:login -d'
 3.  Create a scratch org 'sfdx force:org:create -s -f config/project-scratch-def.json' .  This will create an scratch org which is ready with Analytics enabled.
-4.  Push the sample analytics template in this workspace by running 'sfdx force:source:push'
+4.  Push the sample analytics template from the local workspace to the scratch org by running 'sfdx force:source:push'
 
 At this point you have a scratch org with an Analytics template installed.  Explore the analytics commands by running 'sfdx analytics --help'
 
