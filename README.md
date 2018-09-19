@@ -13,7 +13,7 @@ sfdx plugins:install @salesforce/analytics
 
 At this point you have a scratch org with an Analytics template installed.  Explore the analytics commands by running 'sfdx analytics --help'
 
-For example to create and analytics template from an analytics application run the following to see all the optiona available:
+For example to create an analytics template from an application run the following to see all the options available:
 
 'sfdx analytics:app:create --help'
 
