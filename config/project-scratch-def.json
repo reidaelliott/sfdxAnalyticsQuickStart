@@ -3,11 +3,10 @@
     "country": "US",
     "adminEmail": "%email_address%",
     "edition": "Developer",
-    "features" : "DevelopmentWave",
-    "orgPreferences": {
-      "enabled": [
-        "S1DesktopEnabled"
-      ],
-      "disabled": []
-    }
+    "features" : ["DevelopmentWave"],
+    "settings": {
+          "orgPreferenceSettings": {
+              "s1DesktopEnabled": true
+          }
+      }
   }
